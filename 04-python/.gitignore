@@ -1,0 +1,7 @@
+# Ornek kodlar calistirildiginda olusan dosyalar
+*.txt
+*.csv
+*.log
+*.db
+*.png
+__pycache__/
